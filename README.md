@@ -1,2 +1,3 @@
-Fitness Center Manegment System
+# Fitness Center Manegment System
+
 In this project our team has selected to build an application for a gym Center. Our project aims to develop a comprehensive fitness center management system that will streamline various aspects of running a fitness facility. The main purpose of this project is to provide a comprehensive solution to the challenges faced by fitness centers in managing their operations. By leveraging programming fundamentals, we will solve the following firstly member management system. We will create a user-friendly interface that allows fitness center staff to easily register new members, update their membership status, and manage their personal information.Another important aspect we will address is administrators interface that allow to manage member information from register new member and update there record to delete there record. This will simplify the process of organizing managing member record .
